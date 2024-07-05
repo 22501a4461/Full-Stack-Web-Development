@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color:aliceblue;
+    padding: 10px;
+    margin-left: 100px;
+    max-width: 1100px;
+}
+.Resume{
+   margin-left: 5%;
+   background-color:aquamarine;
+}
+header{
+    text-align: center;
+    margin-bottom: 20px;
+}
+header h1{
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+header p{
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+section{
+    margin-bottom: 30px;
+}
+section h1{
+    font-size: 1.5em;
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+ul{
+    list-style-type: square;
+    margin-left: 20px;
+}
+a{
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.Out{
+    background-color: aquamarine;
+    margin-left: 5%;
+    margin-right: 5%;
+}
